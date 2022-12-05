@@ -1,2 +1,27 @@
 # GD-from-scratch
-Implementation from scratch of the gradient descent algorithm
+Implementation from scratch of the gradient descent algorithm.
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+In 2021, I tried to better understand the gradient descent algorithm. Therefore I've tried to implement it from scratch for a simple problem.
+
+
+I've implemented :
+* Classic GD
+* SGD
+* Mini-batch SGD
+
+[Theory source](https://cs229.stanford.edu/notes2022fall/main_notes.pdf)
+
+### Prerequisites
+
+### Installation
+
+### Demo
+
+To see a demo, ...
+
+## Contributing
+
+todo
