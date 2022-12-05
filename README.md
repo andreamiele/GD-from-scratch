@@ -4,7 +4,7 @@ Implementation from scratch of the gradient descent algorithm.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In 2021, I tried to better understand the gradient descent algorithm. Therefore I've tried to implement it from scratch for a simple problem.
+In 2021, I tried to better understand the gradient descent algorithm. Therefore I've tried to implement it from scratch for simple problems: linear regression and objective function.
 
 
 I've implemented :
