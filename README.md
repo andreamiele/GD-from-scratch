@@ -12,7 +12,7 @@ I've implemented :
 * SGD
 * Mini-batch SGD
 
-[Theory source](https://cs229.stanford.edu/notes2022fall/main_notes.pdf)
+[Theory source](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) *page 10*
 
 ### Prerequisites
 
